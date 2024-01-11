@@ -910,16 +910,6 @@
               <FileType>1</FileType>
               <FilePath>..\application\vision.c</FilePath>
             </File>
-            <File>
-              <FileName>senddatatask.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\application\senddatatask.c</FilePath>
-            </File>
-            <File>
-              <FileName>senddatatask.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\application\senddatatask.h</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>

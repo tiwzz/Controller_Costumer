@@ -97,7 +97,6 @@
 "standard_tpye_c\ui_task.o"
 "standard_tpye_c\rm_cilent_ui.o"
 "standard_tpye_c\vision.o"
-"standard_tpye_c\senddatatask.o"
 "standard_tpye_c\oled.o"
 "standard_tpye_c\bmi088driver.o"
 "standard_tpye_c\bmi088middleware.o"

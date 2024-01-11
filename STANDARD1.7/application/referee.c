@@ -36,7 +36,6 @@ ext_student_interactive_data_t student_interactive_data_t;
 ext_rfid_status_t rfid_status_t;
 
 custom_robot7_data_t customcontroller_tx; // Í¼´«Á´Â·
-custom_robot7_data_t customcontroller_rx;
 extern UART_HandleTypeDef huart1;
 Controller_t_Rx rx_data_t;
 void init_referee_struct_data(void)

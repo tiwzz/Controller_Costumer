@@ -210,6 +210,13 @@ typedef __packed struct
     uint16_t CRC16;         // 帧尾校验CRC16
 } custom_robot7_data_t;
 
+typedef __packed struct//0x0302
+{
+    __packed uint8_t data[30];    // 自定义控制器的数据帧
+    __packed uint16_t frame_tail; // 帧尾CRC16校验
+} Controller_t_Rx;  
+
+
 extern custom_robot7_data_t customcontroller_tx;
 extern custom_robot7_data_t customcontroller_rx;
 
